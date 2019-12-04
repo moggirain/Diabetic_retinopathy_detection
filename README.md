@@ -22,9 +22,9 @@ The goal of the project is to train an image classifier to automatically identif
 
 
 
-## Reference
-[1] Retrieved from:  https://nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/diabetic-retinopathy
-[2] Retrieved from:  https://www.kaggle.com/c/aptos2019-blindness-detection/overview
-[3] Retrieved from:  https://www.kaggle.com/tanlikesmath/intro-aptos-diabetic-retinopathy-eda-starter.
-[4] Retrieved from:  https://www.kaggle.com/c/aptos2019-blindness-detection/data
+## Reference <br>
+[1] Retrieved from:  https://nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/diabetic-retinopathy <br>
+[2] Retrieved from:  https://www.kaggle.com/c/aptos2019-blindness-detection/overview <br>
+[3] Retrieved from:  https://www.kaggle.com/tanlikesmath/intro-aptos-diabetic-retinopathy-eda-starter. <br>
+[4] Retrieved from:  https://www.kaggle.com/c/aptos2019-blindness-detection/data <br>
 [5] Retrieved from:  https://www.kaggle.com/aleksandradeis/aptos2019-blindness-detection-eda
