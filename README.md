@@ -1,4 +1,4 @@
-# Diabetic_Retinopathy_Detection
+# Diabetic_retinopathy_detection
 
 Aravind Eye Hospital in India hopes to detect and prevent diabetic retinopathy[1] among people living in rural areas where medical screening is difficult to conduct[2]. Diabetic retinopathy (DR) is a leading cause of blindness and affects up to 80 percent of those who have had diabetes for 20 years or more [3]. 
  
